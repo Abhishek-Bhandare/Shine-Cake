@@ -1,0 +1,39 @@
+.product{
+  border: transparent ;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.regis{
+  border: transparent ;
+  border-radius: 5px;
+  padding: 30px;
+  margin-top: 20px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.customercomplaint{
+  border: transparent ;
+  border-radius: 10px;
+  padding: 20px;
+  margin-left: 30%;
+  margin-right: 30%;
+  /* box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.6) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.loginstyle{
+  border: transparent ;
+  padding: 20px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  margin-top: -10px;
+  border-radius: 10px;
+}
+.updatecake{
+  border: transparent ;
+  border-radius: 10px;
+  padding: 20px;
+  margin-left: 30%;
+  margin-right: 30%;
+  /* box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.6) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
